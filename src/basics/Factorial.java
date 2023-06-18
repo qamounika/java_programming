@@ -11,5 +11,6 @@ public class Factorial {
 		Factorialresult=Factorialresult*i;
 	}
 	System.out.println(Factorialresult);
+
 }
 }

@@ -10,8 +10,8 @@ public class FactorialUsingClass {
 		for(i=1;i<=factorialNumber;i++)
 		{
 			factorialResult=factorialResult*i;
-			System.out.println(factorialResult);
 		}
+		System.out.println(" the factorial result is"+factorialResult);
 	}
 	public static void main(String args[])
 	{
